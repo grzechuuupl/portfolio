@@ -38,7 +38,7 @@ export default function Header() {
 				<div className='flex lg:flex-1'>
 					<a href='#' className='-m-1.5 p-1.5'>
 						<span className='sr-only'>Your Company</span>
-						<p className='font-bold text-black'>Portfolio.</p>
+						<p className='font-bold text-black '>Portfolio.</p>
 					</a>
 				</div>
 				<div className='flex lg:hidden'>

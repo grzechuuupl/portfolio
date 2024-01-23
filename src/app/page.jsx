@@ -9,7 +9,7 @@ export default function Page() {
 	return (
 		<div>
 			<Header />
-			<Home />
+			<Home  />
 			<AboutUs />
 			<Portfolio />
 			<Contact />

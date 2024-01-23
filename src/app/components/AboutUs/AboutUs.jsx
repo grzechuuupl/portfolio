@@ -1,9 +1,7 @@
 import React from 'react'
 
 const AboutUs = () => {
-  return (
-    <div>AboutUs</div>
-  )
+	return <section>About us</section>
 }
 
 export default AboutUs

@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 const Home = () => {
 	return (
-		<section className='flex justify-around h-screen'>
+		<section className='flex justify-around '>
 			<div className='flex-col text-white m-9 p-9 '>
 				<h1 className='text-5xl'>Hello, I'm Grzegorz </h1>
 				<h2 className='text-2xl font-bold'>Fronted Developer</h2>
